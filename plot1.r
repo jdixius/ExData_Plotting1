@@ -24,7 +24,7 @@ hpc2 <- hpc1[min(which(hpc1$Date=="1/2/2007")):max(which(hpc1$Date=="2/2/2007"))
 ## set variable 'x' to just the values for 'Global_active_power'
 x <- hpc2[,"Global_active_power"]
 
-## create a histogram
+### create a histogram
 hist(x,col="red",xlab="Global Active Power (kilowatts)",ylab="Frequency",main="Global Active Power")
 
 ## copy plot to a file - this will 

@@ -1,4 +1,4 @@
-## create Plot 2
+### create Plot 2
 
 ## first download the zipped file to a tempfile "hpc.zip"
 ## will put the file in a directory called "EDA-proj1"
