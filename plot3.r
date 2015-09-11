@@ -1,6 +1,6 @@
 ### create Plot 3
 
-## first download the zipped file to a tempfile "hpc.zip" if not already in place
+### first download the zipped file to a tempfile "hpc.zip" if not already in place
 ## will put the file in a directory called "EDA-proj1"
 ## if the directory is already in place we will assume the file is already there
 

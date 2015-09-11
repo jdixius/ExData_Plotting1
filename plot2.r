@@ -31,7 +31,7 @@ x <- hpc2[,"Global_active_power"]
 ## create the plot
 plot(hpc2$Time,x,type="l",ylab="Global Active Power (kilowatts)",xlab="")
 
-## copy plot to a file - this will 
+##  copy plot to a file - this will 
 dev.copy(png,file=".\\EDA-proj1\\plot2.png",width=480,height=480)
 
 ## turn off the copy function

@@ -1,5 +1,5 @@
 ## first download the zipped file to a tempfile "hpc.zip"
-## will put the file in a directory called "EDA-proj1"
+##  will put the file in a directory called "EDA-proj1"
 ## if the directory is already in place we will assume the file is already there
 
 if (!file.exists("EDA-proj1"))
